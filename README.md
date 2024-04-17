@@ -17,6 +17,7 @@ L'application comprend plusieurs fonctionnalités clés, notamment :
 ## Comment utiliser l'application
 
 Après avoir lancé l'application, vous pouvez rechercher une ville spécifique pour consulter ses prévisions météorologiques. Vous pouvez également naviguer dans l'application pour consulter les prévisions météorologiques pour les prochaines heures et les prochains jours.
+![image](https://github.com/YassinMk/WeatherApp-TP/assets/122708120/7d56ce9a-e263-481b-95cf-352de45930ad)
 
 ## Installation
 
